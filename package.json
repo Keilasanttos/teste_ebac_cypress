@@ -1,0 +1,23 @@
+{
+  "name": "teste_ebac_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keilasanttos/teste_ebac_cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keilasanttos/teste_ebac_cypress/issues"
+  },
+  "homepage": "https://github.com/Keilasanttos/teste_ebac_cypress#readme",
+  "devDependencies": {
+    "cypress": "^14.0.3"
+  }
+}
